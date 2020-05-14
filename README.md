@@ -12,7 +12,7 @@ aws configure --profile Chitti
 
 `pipenv run python cnt_ec2_cde\shotty.py <command> <--project=PROJECT>`
 
-*command* is list, start or stop_instances
+*command* is list instances, volumes or snapshots; start or stop instances
 *PROJECT* is the project tag value of the instnances and optional
 
 help function is available for all Commands
