@@ -4,11 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+setuptools = "*"
 
 [packages]
 boto3 = "*"
 ipython = "*"
 click = "*"
+setuptools = "*"
 
 [requires]
 python_version = "3.8"
